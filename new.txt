@@ -1,0 +1,11 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 4291-5AF1
+
+ Directory of E:\DevOps
+
+28-02-2017  21:10    <DIR>          .
+28-02-2017  21:10    <DIR>          ..
+28-02-2017  21:10                 0 new.txt
+28-02-2017  19:16               341 project.txt
+               2 File(s)            341 bytes
+               2 Dir(s)  131,226,652,672 bytes free
